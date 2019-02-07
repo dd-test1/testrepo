@@ -1,0 +1,22 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "devDependencies": {
+    "jshint": "^2.10.1"
+  },
+  "scripts": {
+    "test": "jshint test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dd-test1/testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dd-test1/testrepo/issues"
+  },
+  "homepage": "https://github.com/dd-test1/testrepo#readme"
+}
