@@ -4,6 +4,7 @@
   "description": "",
   "main": "test.js",
   "devDependencies": {
+    "jest": "^24.1.0",
     "jshint": "^2.10.1"
   },
   "scripts": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dd-test1/testrepo/issues"
   },
-  "homepage": "https://github.com/dd-test1/testrepo#readme"
+  "homepage": "https://github.com/dd-test1/testrepo#readme",
+  "dependencies": {
+    "coveralls": "^3.0.2"
+  }
 }
